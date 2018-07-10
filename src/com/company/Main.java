@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.*;
 
-    // This program takes a list of arrays. From this list it extracts
+    // This program takes a list of n arrays. From this list it extracts
     // a number from each array and creates all the possible and non repeatable
     // combinations.
     // It works exactly has if all the arrays are in a nested for loop:
